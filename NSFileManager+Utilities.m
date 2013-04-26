@@ -7,7 +7,7 @@
  
  */
 
-#import "NSFileManager-Utilities.h"
+#import "NSFileManager+Utilities.h"
 
 NSString *NSDocumentsFolder() {
 	
